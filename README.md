@@ -1,6 +1,5 @@
-[![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-4dcb0f96db.gif)](https://ezgif.com)
-<h1 align="center">Hi 👋, I'm Fabian P Rebolledo</h1>
-<h3 align="center">A passionate Back-End developer from Chile</h3>
+<h1 align="center">Hi 👋, i'm Fabian P Rebolledo</h1>
+<h3 align="center">A server-side developer from Chile</h3>
 <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fpr95&label=Profile%20views&color=0e75b6&style=flat" alt="fpr95" /> </p>
